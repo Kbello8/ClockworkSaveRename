@@ -16,3 +16,4 @@ SAMPLE:
 
 #Expected folder contains a file named: late_erytheia.trn
 
+The resulting folders can be all copy/pasted into the \AppData\Roaming\Dominions5\savedgames folder and then loaded ingame.
