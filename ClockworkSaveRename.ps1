@@ -44,5 +44,4 @@ $files = Get-ChildItem $gameName*.2h.trn;
 	Start-Sleep -Seconds 0.01
 	Copy-Item $file -Destination $folder\$newfiletrn
   }
-  pause
    
